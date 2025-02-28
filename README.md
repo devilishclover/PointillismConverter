@@ -1,7 +1,7 @@
 # Pointillism Converter
 
 ## Overview
-The **Pointillism Converter** is a simple tool that converts images into a pointillism-style effect. Just drop your PNG or JPEG images into the same folder as the executable, run it, and let it do the rest!
+The **Pointillism Converter** is a simple tool that converts images into a pointillism-style effect. Just drop your PNG or JPEG images into the same folder as the executable, run it, and let it do the rest! Was writen in go but I deleted the go files after compiling a final version like an idiot!
 
 ## How It Works
 1. Place the `imageconvert.exe` `convert.bat` and `run.bat` and file in a folder.
